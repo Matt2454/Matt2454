@@ -1,6 +1,6 @@
 # Hi, I'm Mattia! 👋
 
-15-year-old developer and flight simulation enthusiast. I enjoy building with **Next.js**, exploring **AI** capabilities, and learning how to deploy scalable systems.
+developer and flight simulation enthusiast. I enjoy building with **Next.js**, exploring **AI** capabilities, and learning how to deploy scalable systems.
 
 - 🔭 **Current Focus**: Enhancing my web dev workflow with **Next.js** and experimenting with **AI** integrations.
 - ☁️ **Learning Cloud**: Exploring **Microsoft Azure** for student projects.
